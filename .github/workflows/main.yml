@@ -9,4 +9,4 @@ jobs:
             - uses: actions/checkout@v2
             - name: steps1
               run: |
-                python3 main.py
+                python3 1.py
